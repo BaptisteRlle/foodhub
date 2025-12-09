@@ -67,7 +67,7 @@ Elle permet d’ajouter, modifier, supprimer et consulter des recettes tout en g
 - JavaFX  
 - PostgreSQL (AlwaysData)  
 - JDBC  
-- Pattern Singleton  
+- Design Pattern Singleton / DAO et Architecture Pattern MVC
 
 ---
 
