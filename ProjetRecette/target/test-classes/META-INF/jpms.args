@@ -1,0 +1,4 @@
+--patch-module
+com.mycompany.projetrecette=_
+--add-reads
+com.mycompany.projetrecette=ALL-UNNAMED

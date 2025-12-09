@@ -1,0 +1,10 @@
+com\mycompany\projetrecette\Recette.class
+com\mycompany\projetrecette\App.class
+module-info.class
+com\mycompany\projetrecette\IngredientRecette.class
+com\mycompany\projetrecette\Database.class
+com\mycompany\projetrecette\RecetteDAO.class
+com\mycompany\projetrecette\RecetteIngredientDAO.class
+com\mycompany\projetrecette\Ingredient.class
+com\mycompany\projetrecette\IngredientDAO.class
+com\mycompany\projetrecette\SystemInfo.class
